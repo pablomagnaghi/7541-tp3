@@ -1,0 +1,4 @@
+factura.txt
+matiasdelaiglesia	matiasdelaiglesia.txt
+ivancorrea	ivancorrea.txt
+pablomagnaghi	pablomagnaghi.txt
